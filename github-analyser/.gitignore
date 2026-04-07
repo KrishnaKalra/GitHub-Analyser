@@ -1,0 +1,25 @@
+# virtual environment
+venv/
+.venv/
+github-analyser/
+
+# chromadb stored data
+chroma-store/
+
+# cloned repos (temporary)
+cloned-repos/
+
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# mac junk
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
